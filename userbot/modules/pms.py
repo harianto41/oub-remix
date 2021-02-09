@@ -26,7 +26,29 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`HeY! Please don't spam. Wait for my master's approval 🙃\nMessage remaining:1 \n\n`")
+    "`-EN
+
+Sorry, seems I haven't approved you to PM yet.
+
+Please wait for me to look in.
+
+Until then, please don't spam My PM...
+
+Thank You
+
+*This is an automated message.
+
+-ID
+
+Maaf, Kamu Sepertinya belum diijinkan mengirim pesan.
+
+Tunggu saja sampai aku melihat pesanmu.
+
+Sembari menunggu jangan spam pesan...
+
+Thank You
+
+``Aku Bot :D. \n\n`")
 # =================================================================
 
 NO_PM_LOG_USERS = []
